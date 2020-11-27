@@ -5,27 +5,27 @@ mob: 095/870-9396
 e-mail: lukafilipovic1999@hotmail.com
 
 
-#Životopis
+# Životopis
 
 ![Slika](https://i.ibb.co/XzRBBm3/slika.png)
 
-##Osobni podaci
+## Osobni podaci
 
 Moje ime je Luka Filipović. Rođen sam 17.06.1999. u Virovitici, ali većinu svog života živim u Zadru. Imam hrvatsko državljanstvo. Trenutno studiram studij Informacijskih tehnologija na Sveučilištu u Zadru te se aktivno bavim kickboxingom. Također, trudim se steći nova znanja vezana za programiranje u programskim jezicima C++ i Python.
 
-##Kontakt 
+## Kontakt 
 
  - e-mail: lukafilipovic1999@hotmail.com
  - mob: 095/870-9396 (whatsapp)
  - Facebook: [Luka Filipović](https://www.facebook.com/luka.filipovic.37)
 
-##Adresa
+## Adresa
 
 Put Bokanjca 61
 23000 Zadar
 Hrvatska
 
-##Radno iskustvo
+## Radno iskustvo
 
 Do sada sam radio samo sezonske poslove vezane za ugostiteljstvo tako da iskustva u struci nemam, ali sam voljan naučiti sve što je potrebno.
 
@@ -54,7 +54,7 @@ Do sada sam radio samo sezonske poslove vezane za ugostiteljstvo tako da iskustv
     - Zadar, Hrvatska
     
 
-##Jezične vještine:
+## Jezične vještine:
 
 - **Hrvatski (materinji jezik)**
 - **Engleski (strani jezik)**
@@ -72,7 +72,7 @@ Do sada sam radio samo sezonske poslove vezane za ugostiteljstvo tako da iskustv
     - Pisanje = B2
 
 
-##Digitalne vještine
+## Digitalne vještine
 
 Vještina | Programi
 ---------|-------------
@@ -82,17 +82,17 @@ Rad s bazama podataka|Access
 Sustavi za verzioniranje i suradnički rad|Git, GitHub, Google Drive
 Modeliranje poslovnih procesa|WebSphere
 
-##Hobiji i interesi
+## Hobiji i interesi
 
 Aktivno se bavim kickboxingom protekle 4 godine te sam osvajač nekoliko medalji od kojih bi izdvojio broncu na državnom prvenstvu 2019.
 Najvise me zanima programiranje te se trudim steći nova znanja vezana za isto kako na fakultetu, tako i u slobodno vrijeme.
 Interes pronalazim još i u brzim automobilima.
 
-##Komunikacijske i međuljudske vještine
+## Komunikacijske i međuljudske vještine
 
 Dok sam studirao u Varaždinu na Fakultetu organizacije i informatike, imao sam kolegije Poslovno komuniciranje i Komuniciranje u organizaciji koje sam uspješno i položio. Smatram da sam slušajući ih i polagajući ih stekao vrlo dobre komunikativne vještine, prvenstveno za poslovne aktivnosti.
 
-##Vozačka dozvola
+## Vozačka dozvola
 
 Motocikli|Automobili|Ostalo
 ---------|----------|------
